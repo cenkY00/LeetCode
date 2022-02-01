@@ -1,6 +1,4 @@
-//API bool isBadVersion(version) which returns whether version is bad was given.
-// You are given array that has n elements, you should find bad version of the element of array that return true with isBadVersion method.
-
+//Problem rotated sorted array'e benziyor [4,5,6,1,2,3]. Binary search kullanarak verdiğim örnekte 1'i bulmak ile aynı şey.
 
 
 /* The isBadVersion API is defined in the parent class VersionControl.
